@@ -1,0 +1,9 @@
+What is a Data Structure?? - A data structure is an object in a program or memory that stores information in a structured way.
+
+    Example: Arrays. Arrays are a contiguous stack structure.
+
+What is an Algorithm??
+    - A sequence of steps used to solve a problem (non-specific).
+    - Algorithms are not technology specific.
+
+    Example: Linear Search, Binary Search, Bubble Sort, BFS, DFS, etc.
