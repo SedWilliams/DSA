@@ -3,6 +3,7 @@
 //Think of an array that pushes and pops from the top. Push and Pop
 
 /*
+Analogy from Processing for Java Docs, in context of a transformation matrix
 These come from a computer concept known as a stack, 
 which works like a spring-loaded tray dispenser in a cafeteria. 
 When someone returns a tray to the stack, its weight pushes the platform down. 
