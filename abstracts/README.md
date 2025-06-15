@@ -1,5 +1,4 @@
 # Abstract Data Structures
----
 
 Abstract data structures are types that are not defined by the programming language but instead defined by the programmer. The implementation is custom, and the functionality is custom. Abstract types are built upon the primitive types in the programming language. 
 
